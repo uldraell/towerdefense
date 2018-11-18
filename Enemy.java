@@ -26,7 +26,7 @@ public class Enemy extends Actor
     
     public Enemy()
     {
-        EnemyIcon = new GreenfootImage("sniper.png");
+        EnemyIcon = new GreenfootImage("test.png");
         setImage(EnemyIcon);
     }
     
